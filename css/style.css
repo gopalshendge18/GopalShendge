@@ -94,6 +94,13 @@
   height: 124px;
 
   }
+  @media only screen and (max-width: 600px) {
+    #resume {
+      width: 349px;
+      margin-left: 4px;
+    }
+  }
+ 
 
   .overlay-mf {
     background-color: #0078ff;
