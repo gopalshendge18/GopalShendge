@@ -88,6 +88,12 @@
     background-size: cover;
     background-position: center center;
   }
+  #resume{
+  
+  width: 150px;
+  height: 124px;
+
+  }
 
   .overlay-mf {
     background-color: #0078ff;
