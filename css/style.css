@@ -84,7 +84,7 @@
 
   #home {
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: relative;
     background-size: cover;
     background-position: center center;
   }
@@ -98,6 +98,14 @@
     #resume {
       width: 349px;
       margin-left: 4px;
+    }
+    #home{
+
+      background-repeat: no-repeat;
+      background-attachment: relative;
+      background-size: cover;
+      background-position: center center;
+
     }
   }
  
