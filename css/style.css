@@ -82,7 +82,7 @@
     overflow: hidden;
   }
 
-  .bg-image {
+  #home {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
